@@ -12,7 +12,7 @@ if (a > b)
 {
     Console.Write("Максимум равен ");
     Console.WriteLine(a);
-    Console.Write("Миниму равен ");
+    Console.Write("Минимум равен ");
     Console.WriteLine(b);
 }
 else
